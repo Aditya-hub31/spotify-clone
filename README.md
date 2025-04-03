@@ -1,15 +1,4 @@
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <p align="center">
-    <br />
-    <a href="https://spotifyclonebyrv.vercel.app"><strong>View Live Project »</strong></a>
-    <br /><br />
-    <a href="https://www.linkedin.com/in/raghvendra-misra-424803262">LinkedIn</a> ·
-    <a href="https://twitter.com/raghvendra_001">Twitter</a> ·
-    <a href="https://instagram.com/xeno.dz">Instagram</a>
-  </p>
-</div>
 
 ---
 
@@ -17,9 +6,6 @@
 
 My project is an improved version of a **Spotify clone**, focusing on enhancing **user experience (UX)** and **full responsiveness** across devices. This clone emulates Spotify’s functionality while introducing **extra enhancements** for a seamless experience.
 
-### Screenshots:
-<img src="icon/screenshot1.png" alt="App Screenshot 1" width="100%">
-<img src="icon/screenshot2.png" alt="App Screenshot 2" width="100%">
 
 ---
 
@@ -69,7 +55,3 @@ With these refinements, my **Spotify clone** offers a **comprehensive and enhanc
 ---
 
 ## 📞 Contact
-
-**Raghvendra Misra**  
-- Twitter: [@raghvendra_001](https://twitter.com/raghvendra_001)  
-- Email: itsraghav12@gmail.com  
